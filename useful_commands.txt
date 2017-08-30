@@ -1,0 +1,16 @@
+socat TCP-LISTEN:5555 SYSTEM:'tee l2r | socat - "TCP:localhost:2159"  | tee r2l'
+
+/argus-software/sim_mips1_ps$
+ 
+ 
+ x $gp
+ layout asm
+
+ ./gdb/gdb -batch --command=../procsim/gdb.bin
+
+/argus software/sim_mips1_ps
+qemu-system-mips -s -nographic simple
+
+./gdb/gdb/   // binutils-gdb
+
+core.exception.AssertError@machine.d(1138): $qTfV#81

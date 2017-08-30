@@ -1,0 +1,7 @@
+target remote localhost:1234
+ni 
+p/x $sp
+ni
+p/x $sp
+k
+q

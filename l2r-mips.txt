@@ -1,0 +1,10 @@
++$qSupported:multiprocess+;
+swbreak+;
+hwbreak+;
+qRelocInsn+;
+fork-events+;
+vfork-events+;
+exec-events+;
+vContSupported+;
+QThreadEvents+;
+no-resumed+#df+$vMustReplyEmpty#3a+$Hg0#df+$qTStatus#49+$?#3f+$qfThreadInfo#bb+$qsThreadInfo#c8+$qAttached#8f+$Hc-1#09+$Hg1#e0+$g#67+$g#67+$p25#d7$p25#d7$p25#d7$p25#d7---+

@@ -1,0 +1,8 @@
+file ~/argus-software/sim_mips1_ps/simple
+target remote localhost:2159
+b main
+c
+clear main
+layout src
+b 37
+c
